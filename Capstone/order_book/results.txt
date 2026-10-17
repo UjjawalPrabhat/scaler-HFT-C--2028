@@ -1,0 +1,22 @@
+Correctness: PASS
+
+Implementation A:
+median total ms: 139.692
+median add ns: 97.781
+median cancel ns: 264.288
+median BBO ns: 13.927
+checksum: 99.990000 x 3003 | 100.010000 x 2394|10|10
+
+Implementation B:
+median total ms: 117.949
+median add ns: 61.994
+median cancel ns: 211.980
+median BBO ns: 16.076
+checksum: 99.990000 x 3003 | 100.010000 x 2394|10|10
+
+Implementation C:
+median total ms: 92.686
+median add ns: 52.392
+median cancel ns: 190.439
+median BBO ns: 13.794
+checksum: 99.990000 x 3003 | 100.010000 x 2394|10|10
